@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Sidharth and I am a final year engineering grad student. Interested in Science, technology and anything that furthers mankind.
+  
+- Self taught coder 💻
+- Python enthusiast 🐍
+- Movie Buff 🎞️💪
+
+- 🔭 I’m currently working on a machine learning internship project with a leading IT  consultancy company.
+- 🌱 Always trying to learn something new
