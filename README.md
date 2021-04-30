@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sidharth and I am a final year engineering grad student. 🧮
+My name is Sidharth and I am a final year engineering grad student. 🧮  
 Interested in science, technology and anything that furthers mankind. ✨
   
 - 💻 Self taught coder 
