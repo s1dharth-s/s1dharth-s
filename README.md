@@ -20,7 +20,8 @@ Interested in science, technology and anything that furthers mankind. ✨
   
 - 💻 Self taught coder 
 - 🐍 Python enthusiast 
+- ⚡ DevOps | Cloud | Kubernetes
 - 🎞️ Movie Buff 
 - 🏎️ F1 Fanatic
-- 🔭 I’m currently working on a machine learning internship project with a leading IT consultancy company.
+- 🔭 I’m currently working on building APIs for a microservices based IoT platform.
 - 🌱 Always trying to learn something new
