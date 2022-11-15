@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sidharth and I am a newly graduated Engineer. 🧮  
+My name is Sidharth and I am Embedded Systems Engineering masters student at University of Freiburg. 🧮  
 Interested in science, technology and anything that furthers mankind. ✨
   
 - 💻 Self taught coder 
