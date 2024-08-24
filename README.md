@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sidharth and I am Embedded Systems Engineering masters student at University of Freiburg. 🧮  
+My name is Sidharth and I am a grad student at University of Freiburg. 🧮  
+
 Interested in science, technology and anything that furthers mankind. ✨
   
 - 💻 Self taught coder 
-- 🐍 Python enthusiast 
-- ⚡ DevOps | Cloud | Kubernetes
+- 🐍 Python enthusiast
+- 💡 Python3 | C++ | C | Go | TypeScript | HTML/CSS
+- ⚡ Robotics | DevOps | Cloud | Kubernetes
 - 🎞️ Movie Buff 
 - 🏎️ F1 Fanatic
-- 🔭 I’m currently working on DevOps/building APIs for a microservices based IoT platform.
 - 🌱 Always trying to learn something new
+- 🔗 Find out more about me [here](https://www.sidharths.tech/)
