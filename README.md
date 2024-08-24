@@ -19,7 +19,6 @@ My name is Sidharth and I am a grad student at University of Freiburg. 🧮
 
 Interested in science, technology and anything that furthers mankind. ✨
   
-- 💻 Self taught coder 
 - 🐍 Python enthusiast
 - 💡 Python3 | C++ | C | Go | TypeScript | HTML/CSS
 - ⚡ Robotics | DevOps | Cloud | Kubernetes
