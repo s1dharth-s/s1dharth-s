@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Sidharth and I am a grad student at University of Freiburg. 🧮  
 
-Interested in science, technology and anything that furthers mankind. ✨
+Interested in robotics, software development and anything that furthers mankind. ✨
   
 - 🐍 Python enthusiast
 - 💡 Python3 | C++ | C | Go | TypeScript | HTML/CSS
