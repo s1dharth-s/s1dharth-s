@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 My name is Sidharth and I am a grad student at University of Freiburg. 🧮  
 
-Interested in robotics, software development and anything that furthers mankind. ✨
+Interested in robotics, autonomous systems, software development and anything that furthers mankind. ✨
   
 - 🐍 Python enthusiast
-- 💡 Python3 | C++ | C | Go | TypeScript | HTML/CSS
-- ⚡ Robotics | DevOps | Cloud | Kubernetes
+- 💡 Python3 | C++ | C | Go | Rust | TypeScript | HTML/CSS
+- ⚡ Robotics | Autonomous Systems | DevOps | Cloud | Kubernetes
 - 🎞️ Movie Buff 
 - 🏎️ F1 Fanatic
 - 🌱 Always trying to learn something new
-- 🔗 Find out more about me [here](https://www.sidharths.tech/)
+- 🔗 Find out more about me [here](https://www.sidharth-s.dev)
